@@ -1,0 +1,10 @@
+.linha{
+    background-color: rgb(31, 1, 139);
+    height: 1px;
+    width: 100%;
+    margin: 10px auto;
+}
+body{
+    text-align: center;
+
+}
